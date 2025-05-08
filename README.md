@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @LauraScarimbolo
 - 👀 I’m interested in biostatistics and population public health
-- 🌱 I’m currently learning R and Terra/AnViL
+- 🌱 I’m currently learning R
 - 💞️ I’m looking to collaborate on statistical projects related to public health research.
-- 📫 How to reach me: email at laura.scarimbolo@mssm.edu
+- 📫 How to reach me: email at laura.golfinopoulos@mssm.edu
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I am proficient in STATA and SPSS. 
 
